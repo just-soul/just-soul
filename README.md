@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=600&height=60&lines=$+whoami;wind;$+cat+now.md;Rust+%C2%B7+memory+%C2%B7+performance" alt="typing" />
-
-**Rust developer in progress.**
-**Linux · tinkering · small projects.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=600&height=60&lines=wind.exe+has+stopped+working;press+any+key;key+not+found;404+brain+not+found" alt="typing" />
 
 </div>
 
